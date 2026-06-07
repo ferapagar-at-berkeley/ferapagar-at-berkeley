@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm **Fernando Aparicio Garcia**!
 
-I am a Statistics & Data Science student at **[Your University]** with a passion for **Machine Learning in Healthcare / Medical AI** and **Quantitative Finance**. I enjoy applying rigorous statistical modeling, stochastic calculus, and deep learning architectures to extract signals from complex, high-dimensional datasets.
+I am a Statistics & Data Science master's student at **University of California, Berkeley**, with a passion for **Machine Learning in Healthcare / Medical AI** and **Quantitative Finance**. I enjoy applying rigorous statistical modeling, stochastic calculus, and deep learning architectures to extract signals from complex, high-dimensional datasets.
 
 ---
 
@@ -34,7 +34,7 @@ I am a Statistics & Data Science student at **[Your University]** with a passion
 
 | My GitHub Stats | Top Languages |
 | --- | --- |
-| ![Your Github Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radial) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radial) |
+| ![Your Github Stats](https://github-readme-stats.vercel.app/api?username=ferapagar-at-berkeley&show_icons=true&theme=radial) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferpagar-at-berkeley&layout=compact&theme=radial) |
 
 ---
 
